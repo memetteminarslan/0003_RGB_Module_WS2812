@@ -1,1 +1,3 @@
 # 0003_RGB_Module_WS2812
+You are seeing a large number of widely used RGB modules in electronic development kits. More information coming soon...
+
